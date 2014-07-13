@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This is my first attempt to see this works.
+This is my first attempt to see how this works.

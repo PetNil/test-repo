@@ -8,3 +8,6 @@ Including a small list here.
 * Explore Git/GitHub
 
 ### Third header
+A paragraph with *emphasized* word.
+> This is a blockquote
+> with two lines.

@@ -21,3 +21,8 @@ A numbered list.
 
 A link to [Google](http://www.google.com)
 
+### Image
+Include an image to the page.
+![Autumn leaves](hoost_200.gif "Autumn leaves")
+Where will the image apear.
+

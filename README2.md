@@ -26,3 +26,11 @@ Include an image to the page.
 ![Autumn leaves](hoost_200.gif "Autumn leaves")
 Where will the image apear.
 
+### Image2
+An alternative way of inserting an image.
+
+![Background image of white and red squares][bgimg]
+[bgimg]: backg4.jpg "Red and white checker"
+
+Following instructions from Daring Fireball.
+

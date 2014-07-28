@@ -19,7 +19,21 @@ A numbered list.
 2. Two
 3. Three
 
+* * *
+
 A link to [Google](http://www.google.com)
+
+- - - 
+
+### Links
+Alternative way to make links.
+
+A link to [GitHub][li1]
+
+A link to [Coursera][li2]
+
+[li1]: https://github.com/PetNil "My GitHub"
+[li2]: https://www.coursera.org/ "Coursera"
 
 ### Image
 Include an image to the page.

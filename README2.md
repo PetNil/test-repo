@@ -37,7 +37,9 @@ A link to [Coursera][li2]
 
 ### Image
 Include an image to the page.
+
 ![Autumn leaves](hoost_200.gif "Autumn leaves")
+
 Where will the image apear.
 
 ### Image2
